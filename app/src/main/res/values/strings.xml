@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image1_title">Mulher Islâmicas</string>
+    <string name="image1_description">
+        As mulheres no Islão são guiadas pelas
+        leis primárias islâmicas, nomeadamente o Alcorão, assim como pelas
+        demais leis secundárias (que tendem a variar de acordo com a diferença na
+        conceituação das mulheres islâmicas)
+    </string>
+    <string name="image2_title">a luta pela eliminação da discriminação racial
+</string>
+    <string name="image2_description">Desde 1966, 21 de março é marcado por ser o
+        Dia Internacional pela Eliminação da Discriminação Racial e, apesar de ser
+        uma data muito importante, nem sempre é lembrada e, muito menos, respeitada.
+        Lélia Gonzalez, constantemente
+        atenta às pautas que importam, não deixou a data passar em branco.</string>
+
+
+    <string name="image3_title">Gosto dessa sensação de liberdade!</string>
+    <string name="image3_description">Falo dessa liberdade que se pode
+        sentir quando descobrimos que viver é exclusivamente um direito nosso,
+        que somos capazes e responsáveis por conduzir nossas vidas da melhor maneira
+        alcançada
+        e que não há ninguém que tenha poder maior que nós de conduzir nossas vidas.</string>
+
+    <string name="image4_title">O que é dança?</string>
+
+
+    <string name="image4_description">A dança é um tipo de manifestação
+        artística que utiliza o corpo como instrumento criativo</string>
+
+    <string name="image5_title">crise na Venezuela</string>
+
+
+    <string name="image5_description">2019 – Nicolás Maduro e Juan Guaidó tomam posse paralelamente como presidentes da Venezuela. O primeiro eleito pelo
+        Tribunal Supremo de Justiça e o segundo pela Assembleia Nacional.</string>
+
+
+</resources>
